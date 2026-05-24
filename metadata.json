@@ -1,0 +1,6 @@
+{
+  "name": "INR PAY",
+  "description": "A fully modern Indian fintech UPI payment app inspired by FamPay. Teen-friendly UPI + Wallet + Digital Banking with smart AI spending insights, interactive prepaid card, and social elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
